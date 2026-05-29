@@ -49,10 +49,14 @@ A telecom company is losing **£1.67 million annually** to customer churn. With 
 ```
 telco-churn-analysis/
 │
-├── churn_analysis.ipynb          # Main notebook: EDA, cleaning, ML model
-├── telco_churn_with_predictions.csv  # Enriched dataset with risk scores
-├── feature_importance.csv        # ML model feature coefficients
-├── Churn_Dashboard.pbix          # Power BI dashboard file
+├── telco_customer_churn.ipynb
+├── telco_churn_with_predictions.csv
+├── feature_importance.csv
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── Churn_Dashboard.pbix
+├── Dashboard/
+│   ├── Customer Churn Analysis.png
+│   └── Predictive Risk Segmentation.png
 └── README.md
 ```
  

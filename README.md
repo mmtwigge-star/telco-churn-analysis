@@ -126,8 +126,6 @@ Two-page interactive dashboard built on the enriched dataset:
 ---
  
 ## Author
- 
-## 👤 Author
 
 **Matthew Twigge**
 Junior Data Analyst | SQL · Python · Power BI

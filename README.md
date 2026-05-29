@@ -102,7 +102,7 @@ Two-page interactive dashboard built on the enriched dataset:
  
 ## Dashboard Preview
  
-*[Add screenshot of Page 1 here]*
+Dashboard/Customer Churn Analysis.png
  
 *[Add screenshot of Page 2 here]*
  

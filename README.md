@@ -127,6 +127,8 @@ Two-page interactive dashboard built on the enriched dataset:
  
 ## Author
  
-**[Your Name]**  
-Junior Data Analyst | SQL · Python · Power BI  
-[LinkedIn](https://linkedin.com) · [Kaggle](https://kaggle.com)
+## 👤 Author
+
+**Matthew Twigge**
+Junior Data Analyst | SQL · Python · Power BI
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/matthewtwigge/)) · [Kaggle](https://www.kaggle.com/code/matthewtwigge/telco-customer-churn)

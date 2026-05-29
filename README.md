@@ -102,9 +102,9 @@ Two-page interactive dashboard built on the enriched dataset:
  
 ## Dashboard Preview
  
-Dashboard/Customer Churn Analysis.png
+![Dashboard Page 1](Dashboard/Customer%20Churn%20Analysis.png)
  
-*[Add screenshot of Page 2 here]*
+![Risk Segmentation](Dashboard/Customer%20Risk%20Segments.png)
  
 ---
  

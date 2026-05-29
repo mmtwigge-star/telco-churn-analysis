@@ -111,7 +111,7 @@ Two-page interactive dashboard built on the enriched dataset:
 ## How to Run This Project
  
 1. Clone the repository
-2. Open `churn_analysis.ipynb` in Jupyter or [run it on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/matthewtwigge/telco-customer-churn/edit))
+2.Open `churn_analysis.ipynb` in Jupyter or [run it on Kaggle](https://www.kaggle.com/code/matthewtwigge/telco-customer-churn)
 3. The dataset is sourced from [IBM Telco Customer Churn on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 4. Run all cells in order — outputs will generate the two CSV files
 5. Open `Churn_Dashboard.pbix` in Power BI Desktop and refresh the data source to point to your local CSV files

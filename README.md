@@ -102,9 +102,9 @@ Two-page interactive dashboard built on the enriched dataset:
  
 ## Dashboard Preview
  
-![Dashboard Page 1](Dashboard/Customer%20Churn%20Analysis.png)
+![Churn Overview](Dashboard/Customer%20Churn%20Analysis.png)
  
-![Risk Segmentation](Dashboard/Customer%20Risk%20Segments.png)
+![Risk Segmentation](Dashboard/Predictiver%20Risk%20Segments.png)
  
 ---
  

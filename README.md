@@ -1,12 +1,12 @@
 # telco-churn-analysis
 Analysis of customer data to identify trends, churn rate, and predicting customer churn 
 
-# 📉 Telecom Customer Churn Prediction
+# Telecom Customer Churn Prediction
 ### Predicting which customers will leave — and what it costs when they do
  
 ---
  
-## 📌 Business Problem
+## Business Problem
  
 A telecom company is losing **£1.67 million annually** to customer churn. With a churn rate of 26.6%, roughly 1 in 4 customers leaves every year. This project identifies *which* customers are most likely to churn, *why* they churn, and *what the business should do about it* — using machine learning to score every customer by risk level.
  
@@ -14,7 +14,7 @@ A telecom company is losing **£1.67 million annually** to customer churn. With 
  
 ---
  
-## 🔍 Key Findings
+## Key Findings
  
 | Finding | Detail |
 |---|---|
@@ -26,7 +26,7 @@ A telecom company is losing **£1.67 million annually** to customer churn. With 
  
 ---
  
-## 💡 Business Recommendations
+## Business Recommendations
  
 1. **Prioritise contract conversion** — Incentivise month-to-month customers to upgrade to annual contracts. This single action has the highest projected impact on retention.
 2. **Investigate fiber optic service quality** — The model flags fiber optic as the top churn risk factor. A product review is warranted.
@@ -34,7 +34,7 @@ A telecom company is losing **£1.67 million annually** to customer churn. With 
 4. **Bundle tech support into base plans** — Customers with tech support churn at half the rate. Removing the friction of adding it separately could improve retention across all segments.
 ---
  
-## 🛠️ Tools & Technologies
+## Tools & Technologies
  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-lightgrey?logo=pandas)
@@ -44,7 +44,7 @@ A telecom company is losing **£1.67 million annually** to customer churn. With 
  
 ---
  
-## 📂 Project Structure
+## Project Structure
  
 ```
 telco-churn-analysis/
@@ -100,7 +100,7 @@ Two-page interactive dashboard built on the enriched dataset:
 - **Page 2 — Risk Segmentation:** Customer risk breakdown, probability distribution, high-risk customer table filterable by segment
 ---
  
-## 📊 Dashboard Preview
+## Dashboard Preview
  
 *[Add screenshot of Page 1 here]*
  
@@ -108,7 +108,7 @@ Two-page interactive dashboard built on the enriched dataset:
  
 ---
  
-## ▶️ How to Run This Project
+## How to Run This Project
  
 1. Clone the repository
 2. Open `churn_analysis.ipynb` in Jupyter or [run it on Kaggle](https://www.kaggle.com/)
@@ -117,7 +117,7 @@ Two-page interactive dashboard built on the enriched dataset:
 5. Open `Churn_Dashboard.pbix` in Power BI Desktop and refresh the data source to point to your local CSV files
 ---
  
-## 🎓 What I Learned
+## What I Learned
  
 - How to detect non-standard missing values that evade `isnull()` checks
 - The precision-recall tradeoff and why it matters more than accuracy for imbalanced classification problems
@@ -125,7 +125,7 @@ Two-page interactive dashboard built on the enriched dataset:
 - How to translate model outputs into business language a non-technical stakeholder can act on
 ---
  
-## 👤 Author
+## Author
  
 **[Your Name]**  
 Junior Data Analyst | SQL · Python · Power BI  

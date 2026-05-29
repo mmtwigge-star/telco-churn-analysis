@@ -18,11 +18,11 @@ A telecom company is losing **£1.67 million annually** to customer churn. With 
  
 | Finding | Detail |
 |---|---|
-| 📋 Contract type is the biggest churn driver | Month-to-month customers churn at **42.7%** vs just **2.8%** on two-year contracts — a 15x difference |
-| 📡 Fiber optic customers are high risk | Despite paying more, fiber customers churn at higher rates — suggesting a service quality issue |
-| ⏱️ Tenure is the strongest retention signal | Churn drops sharply after month 12 — early engagement is critical |
-| 💳 Payment method matters | Electronic check users churn significantly more than auto-pay customers |
-| 🛡️ Tech support nearly halves churn | 41.6% churn without tech support vs 15.2% with it |
+| Contract type is the biggest churn driver | Month-to-month customers churn at **42.7%** vs just **2.8%** on two-year contracts — a 15x difference |
+| Fiber optic customers are high risk | Despite paying more, fiber customers churn at higher rates — suggesting a service quality issue |
+| Tenure is the strongest retention signal | Churn drops sharply after month 12 — early engagement is critical |
+| Payment method matters | Electronic check users churn significantly more than auto-pay customers |
+| Tech support nearly halves churn | 41.6% churn without tech support vs 15.2% with it |
  
 ---
  
@@ -58,7 +58,7 @@ telco-churn-analysis/
  
 ---
  
-## 🔄 Project Workflow
+## Project Workflow
  
 ### 1. Data Cleaning
 - Identified 11 rows with blank `TotalCharges` disguised as empty strings (not caught by standard null checks)
